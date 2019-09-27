@@ -63,3 +63,9 @@ memo for myself
 Try not to use reboot.sh
 
 It's hackey way
+
+# Reboot from http request
+
+Access to http://192.168.0.100/cgi-bin/hi3510/reboot.cgi
+
+That's it

@@ -1,9 +1,9 @@
 # TH692_network_cam
-just some useful notes for th692 cam.
+Just some useful notes for th692 cam.
 
 Setting up crond in Th692 network camera.
 
-First of all, you need to access to TH692 by telent. 
+First of all, you need to access TH692 by telent. 
 
 
 In linux
@@ -42,6 +42,8 @@ then create file name called
 `S92cron`
 
 S stands for start, so anything named start with captial S will start at boot.
+
+Credits to https://eng-entrance.com/linux_startup
 
 inside `S92cron`
 

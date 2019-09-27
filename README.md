@@ -19,7 +19,7 @@ login name for telnet is root
 password is cat1029
 
 
-if it does not work, then try Mroot or Proot for the usernmae. 
+if it does not work, then try Mroot or Wproot for the usernmae. 
 
 
 Once you get into the system,

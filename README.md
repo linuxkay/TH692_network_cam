@@ -55,3 +55,11 @@ then put whatever the command you like using
 
 `crontab -e`
 
+
+# Memo
+
+memo for myself
+
+Try not to use reboot.sh
+
+It's hackey way

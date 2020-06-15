@@ -1,14 +1,32 @@
 # TH692_network_cam
+
+## Category
+
+Network camera information
+
+## Description
+
 Just some useful notes for th692 cam.
+
+
+## Demo in Animation
+
+## Overview
 
 Setting up crond in Th692 network camera.
 
-First of all, you need to access TH692 by telent. 
+## Requirements
 
+First of all, you need to access TH692 by telent. 
 
 In linux
 
-apt or use dnf to install 'telnet'
+apt or use dnf to install 'telnet
+
+
+## Install
+
+## Usage
 
 then 
 
@@ -56,7 +74,7 @@ then put whatever the command you like using
 `crontab -e`
 
 
-# Memo
+## Memo
 
 memo for myself
 
@@ -69,3 +87,12 @@ It's hackey way
 Access to http://192.168.0.100/cgi-bin/hi3510/reboot.cgi
 
 That's it
+
+## Updates
+
+## Licence
+[MIT]
+
+## Author
+
+[linuxkay](https://github.com/linuxkay)

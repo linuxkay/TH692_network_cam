@@ -6,14 +6,14 @@ Network camera information
 
 ## Description
 
-Just some useful notes for th692 cam.
+Just some useful notes for TH692 cam.
 
 
 ## Demo in Animation
 
 ## Overview
 
-Setting up crond in Th692 network camera.
+Setting up crond in TH692 network camera.
 
 ## Requirements
 
@@ -76,7 +76,7 @@ then put whatever the command you like using
 
 ## Memo
 
-memo for myself
+Mmemo for myself
 
 Try not to use reboot.sh
 

@@ -82,7 +82,7 @@ Try not to use reboot.sh
 
 It's hackey way
 
-# Reboot TH692 by http request
+# Reboot TH692 by sending/accessing http request
 
 Access to http://192.168.0.100/cgi-bin/hi3510/reboot.cgi
 

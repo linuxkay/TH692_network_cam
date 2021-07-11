@@ -11,7 +11,7 @@ do
     touch /root/Rebooted
     reboot
   else
-    echo Not goona reboot fow now waiting time hits 1830
+    echo "Not goona reboot fow now waiting time hits 1830"
 fi
 done
 

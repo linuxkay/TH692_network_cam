@@ -91,7 +91,7 @@ That's it
 ## Updates
 
 2021/07/10 Changed TH692 IP to 192.168.1.100 (Had to create WiFi hot spot IP 192.168.0.1/24)
-           Synched Time via setTimeforCAM.sh in Pi3B+
+           Synched Time for TH692 via setTimeforCAM.sh in Pi3B+
 
 ## Licence
 [MIT]

@@ -96,7 +96,13 @@ Use following command to solve the rtsp delay.
 `  ffplay -rtsp_transport udp -fflags nobuffer -flags low_delay -framedrop -analyzeduration 0 -an -vf "scale=1280x780" rtsp://192.168.1.100:554/13
 `
 
-option `-rtsp_transport udp -fflags nobuffer -flags low_delay -framedrop` helped improving speed. `-analyzeduration 0` helped giving stable smooth stream in long term. `-an` helped more smooth video stream with improved video quality.
+options and opinions. 
+
+`-rtsp_transport udp -fflags nobuffer -flags low_delay -framedrop` helped improving speed. 
+
+`-analyzeduration 0` helped giving stable smooth stream in long term. 
+
+`-an` helped more smooth video stream with improved video quality.
 
 by using above command, it gives you smooth video stream without any delay. also found out that ping reply is way faster when you open stream via above command compare to http.
 ping reply time on rtsp 6ms to 11ms. ping reply time when accessing via http is 600ms 1200ms.
